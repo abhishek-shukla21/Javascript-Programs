@@ -1,2 +1,2 @@
 # Javascript-Programs
-https://abhishek-shukla21.github.io/Javascript-Programs/
+https://js-programs.netlify.app/
