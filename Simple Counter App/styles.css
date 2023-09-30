@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+}
+
+.container {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    right: 20%;
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    padding: 10px;
+    margin: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+h1 {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+}
+
+button:hover {
+    transform: scale(1.1);
+    color: white;
+    background-color: black;
+    border-color: azure;
+}
+
+#value {
+    font-size: 50px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(245, 216, 51);
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
